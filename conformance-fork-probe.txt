@@ -1,0 +1,1 @@
+author-run command authorization conformance check (fork PR head content)
